@@ -3,3 +3,4 @@
 [all:vars]
 ansible_connection=ssh
 ansible_user=jenkins
+ansible_ssh_pass=jenkins
