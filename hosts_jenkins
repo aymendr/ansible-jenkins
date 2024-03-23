@@ -2,7 +2,3 @@
 192.168.56.201
 [prod]
 192.168.56.200
-[all:vars]
-ansible_connection=ssh
-ansible_user=jenkins
-ansible_ssh_pass=jenkins
